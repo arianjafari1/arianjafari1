@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity and Unreal Engine, as well as C++
 - 💞️ I’m looking to collaborate on video game creation
 - 📫 How to reach me email me at arian.jafari@outlook.com
+- 📫 LinkedIn: https://www.linkedin.com/in/arian-jafari-tadi/
 
 <!---
 arianjafari1/arianjafari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
